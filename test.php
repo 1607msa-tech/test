@@ -56,7 +56,7 @@
             transform: translateX(-50%);
         }
 
-        .grandparent {
+        #grandparent {
             position: absolute;
             top: 180px;
             left: 50%;
