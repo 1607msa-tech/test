@@ -67,15 +67,15 @@
 <body>
     <div class="family-tree">
         <!-- Сын -->
-        <div class="person child">Иванов Егор Петрович</div>
+        <div class="persons child">Иванов Егор Петрович</div>
         <div class="line"></div>
 
         <!-- Отец -->
-        <div class="person parent">Иванов Петр Сергеевич</div>
+        <div class="persons parent">Иванов Петр Сергеевич</div>
         <div class="line vertical"></div>
 
         <!-- Мать отца -->
-        <div class="person grandparent">Иванова Елена Анатольевна</div>
+        <div class="persons grandparent">Иванова Елена Анатольевна</div>
         <div class="line"></div>
 
         <!-- Мать -->
