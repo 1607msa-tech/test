@@ -13,7 +13,7 @@
             margin: 10px 5px;
         }
 
-        .person {
+        #person {
             width: 150px;
             border: 1px solid #000;
             text-align: center;
