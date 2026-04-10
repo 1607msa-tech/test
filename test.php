@@ -15,7 +15,7 @@
 
         #person {
             width: 150px;
-            border: 1px solid #000;
+            border: 2px solid #000;
             text-align: center;
             padding: 10px;
             position: relative;
@@ -34,7 +34,7 @@
             transform: rotate(90deg);
             left: calc(50% - 1px);
             width: 2px;
-            height: 30px;
+            height: 50px;
         }
 
         .family-tree {
@@ -56,7 +56,7 @@
             transform: translateX(-50%);
         }
 
-        .grandparent {
+        #grandparent {
             position: absolute;
             top: 180px;
             left: 50%;
