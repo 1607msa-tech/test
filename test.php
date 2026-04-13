@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Древо родословной</title>
+    <title>Родословное древо</title>
     <style>
         body {
             font-family: Arial, sans-serif;
